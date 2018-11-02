@@ -1,5 +1,5 @@
 {
-  "name": "koa2test",
+  "name": "weapp-server",
   "version": "0.1.0",
   "private": true,
   "scripts": {
